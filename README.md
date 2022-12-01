@@ -14,7 +14,7 @@ Release notes for the main WECA QGIS .qgz file, located in folder: `\\gismap\GIS
 ###### Removed
 * GIS file server datasets removed as data sources
 
-## **Versions 01-08** (June 2021-October 2022)
+## **Versions 01-07** (June 2021-October 2022)
 ###### Summary
 * QGIS map file reading Shapefile data from Agilisys file server
 ###### Issues
