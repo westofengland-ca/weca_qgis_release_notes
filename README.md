@@ -1,5 +1,5 @@
 # WECA QGIS file release notes
-:round_pushpin: :globe_with_meridians: :world_map: :compass: :chart_with_upwards_trend:
+📍 🌐 🌍 📈
 
 Release notes for the main WECA QGIS file, located in folder: `\\gismap\GIS\Server_database\WECA_QGIS_main`
 
@@ -13,3 +13,13 @@ Release notes for the main WECA QGIS file, located in folder: `\\gismap\GIS\Serv
 * layer rendering performance after switch to Azure cloud data sources
 ###### Removed
 * GIS file server datasets removed as data sources
+
+## **Versions 01-08** (June 2021-October 2022)
+###### Summary
+* QGIS map file reading Shapefile data from Agilisys file server
+###### Issues
+* slow read/write performance
+* slow map rendering performance
+* file based data - non-relational & inefficient
+* limited bandwidth and scalability
+* externally managed
