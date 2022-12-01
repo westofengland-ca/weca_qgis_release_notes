@@ -1,7 +1,7 @@
 # WECA QGIS file release notes
 📍 🌐 🌍 📈
 
-Release notes for the main WECA QGIS file, located in folder: `\\gismap\GIS\Server_database\WECA_QGIS_main`
+Release notes for the main WECA QGIS .qgz file, located in folder: `\\gismap\GIS\Server_database\WECA_QGIS_main`
 
 ## **Version 08** (November 2022)
 
