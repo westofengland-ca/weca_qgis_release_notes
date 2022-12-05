@@ -13,8 +13,12 @@ Release notes for the main WECA QGIS .qgz file, located in folder: `\\gismap\GIS
 
 ###### Improved
 * layer rendering performance after switch to Azure cloud data sources
+
+
 ###### Removed
 * GIS file server datasets removed as data sources
+
+
 ###### Issues
 * slow initial project file loading time (1.5-2 minutes)
 * slow map layer load on first layer chosen
@@ -23,6 +27,8 @@ Release notes for the main WECA QGIS .qgz file, located in folder: `\\gismap\GIS
 ###### Summary
 * QGIS map file reading Shapefile data from Agilisys file server
 * each update added more map layers
+
+
 ###### Issues
 * slow read/write performance
 * slow map rendering performance
