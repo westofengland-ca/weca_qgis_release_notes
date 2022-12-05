@@ -1,7 +1,11 @@
 # WECA QGIS file release notes
 📍 🌐 🌍 📈
 
-Release notes for the main WECA QGIS .qgz file, located in folder: `\\gismap\GIS\Server_database\WECA_QGIS_main`
+Release notes for the main WECA QGIS .qgz file, called '_WECA_GIS_v[__].qgz_' located in folder: `\\gismap\GIS\Server_database\WECA_QGIS_main`
+To use, take a copy of this file into your personal documents. Suggest renaming copy file using your name and surname initial (eg. '_WECA_GIS_v08_TheoF.qgz_')
+
+Training material can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Training).
+GIS catchup recording demos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Catch-ups/Recordings).
 
 ## **Version 08** (November 2022)
 
@@ -23,7 +27,7 @@ Release notes for the main WECA QGIS .qgz file, located in folder: `\\gismap\GIS
 * slow initial project file loading time (1.5-2 minutes)
 * slow map layer load on first layer chosen
 
-## **Versions 01-07** (June 2021-October 2022)
+## **Versions 01-07** (September 2021-October 2022)
 ###### Summary
 * QGIS map file reading Shapefile data from Agilisys file server
 * each update added more map layers
