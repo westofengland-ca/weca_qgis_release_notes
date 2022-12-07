@@ -1,11 +1,15 @@
 # WECA QGIS file release notes
 📍 🌐 🌍 📈
 
-Release notes for the main WECA QGIS .qgz file, called '_WECA_GIS_v[__].qgz_' located in folder: `\\gismap\GIS\Server_database\WECA_QGIS_main`
-To use, take a copy of this file into your personal documents. Suggest renaming copy file using your name and surname initial (eg. '_WECA_GIS_v08_TheoF.qgz_')
+Geographical data across the Combined Authority is viewable using 'QGIS' software. A QGIS file exists with various map layers pre-loaded.
+To explore our GIS data, navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file), then ***download a copy of the `.qgz` file into your personal documents and rename the file***. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v08_TheoF.qgz`). When opening the file, please allow **2 minutes** for QGIS to fully load the layers.
+
+Release notes are available below for the QGIS `.qgz` file `WECA_GIS_v[__].qgz`.
 
 Training material can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Training).
-GIS catchup recording demos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Catch-ups/Recordings). The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true).
+GIS catchup recording demos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Catch-ups/Recordings). The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true) (WIP).
+
+## **QGIS file (.qgz) release history:**
 
 ## **Version 08** (November 2022)
 
