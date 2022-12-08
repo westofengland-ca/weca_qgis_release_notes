@@ -2,9 +2,9 @@
 📍 🌐 🌍 📈
 
 Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. A QGIS file exists with various map layers pre-loaded.
-To explore our GIS data, navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file), then ***download a copy of the `.qgz` file into your personal documents and rename the file***. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v08_TheoF.qgz`). When opening the file, please allow **2 minutes** for QGIS to fully load the layers.
+To explore our GIS data, navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file), then ***download a copy of the `.qgz` file into your personal documents and rename the file***. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v08_TheoF.qgz`). When opening the file, please allow **2 minutes** for QGIS to fully load the layers (there are lots of map layers!).
 
-Release notes are available below for the latest QGIS `.qgz` file. New releases expected every couple of months. Check the folder linked above for updated versions.
+Release notes are available below for the latest QGIS `.qgz` file. New releases are expected every couple of months. Check the folder linked above for updated versions.
 
 Training material can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Training).
 GIS catchup recording demos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Catch-ups/Recordings). The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true) (WIP).
