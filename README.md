@@ -18,6 +18,7 @@ GIS catchup recording demos can be found [here](https://westofenglandca.sharepoi
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
 * set scale dependent visibility on 'Land parcels' layer
+* all Layout templates set to 200dpi export resolution and 'Print as raster' by default
 
 ###### Removed
 * SWPTI ptways_y10/plus and pylinks_y10/plus layers (these appeared to be duplicates of the SWPTI 'Bus routes' layer)
