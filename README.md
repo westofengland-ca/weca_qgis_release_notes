@@ -11,6 +11,22 @@ GIS catchup recording demos can be found [here](https://westofenglandca.sharepoi
 
 ## **QGIS file (.qgz) release history:**
 
+## **Version 09** (TBC Q2 2023)
+
+###### New
+
+###### Changed
+* 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
+* set scale dependent visibility on 'Land parcels' layer
+
+###### Removed
+* SWPTI ptways_y10/plus and pylinks_y10/plus layers (these appeared to be duplicates of the SWPTI 'Bus routes' layer)
+
+
+###### Issues
+* slow initial project file loading time (approx. 2 minutes)
+
+
 ## **Version 08** (November 2022)
 
 ###### New
@@ -19,7 +35,7 @@ GIS catchup recording demos can be found [here](https://westofenglandca.sharepoi
 * multiple new layers added - see data catalogue for full list.
 
 
-###### Improved
+###### Changed
 * layer rendering performance after switch to Azure cloud data sources
 
 
