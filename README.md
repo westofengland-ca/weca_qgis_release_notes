@@ -12,28 +12,17 @@ To explore our GIS data, follow these steps:
 
 Release notes are available below for the latest QGIS `.qgz` file. New releases are expected every couple of months. Check the folder linked above for updated versions.
 
-Training material can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Training).
-GIS catchup recording demos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Catch-ups/Recordings). The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true) (WIP).
+---
 
-## **QGIS file (.qgz) release history/schedule:**
+📚🎥 Training docs and videos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Training).
 
-## **Version 09** (TBC Q2 2023)
+👥🎥 GIS catchup recording demos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Catch-ups/Recordings).
 
-###### New
-* previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
-* update log table for SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
+📔📑 The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true) (WIP).
 
-###### Changed
-* 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
-* set scale dependent visibility on 'Land parcels' layer
-* all Layout templates set to 200dpi export resolution and 'Print as raster' by default
+---
 
-###### Removed
-* SWPTI ptways_y10/plus and pylinks_y10/plus layers (these appeared to be duplicates of the SWPTI 'Bus routes' layer)
-
-###### Issues
-* slow initial project file loading time (approx. 2 minutes)
-
+## **QGIS file (.qgz) release history:**
 
 ## **Version 08** (November 2022)
 
@@ -67,3 +56,29 @@ GIS catchup recording demos can be found [here](https://westofenglandca.sharepoi
 * file based data - non-relational & inefficient
 * limited bandwidth and scalability
 * externally managed
+
+---
+---
+---
+
+## **QGIS file (.qgz) release future schedule:**
+
+## **Version 09** (TBC Q2 2023)
+
+###### New
+* previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
+* update log table for SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
+
+###### Changed
+* 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
+* set scale dependent visibility on 'Land parcels' layer
+* all Layout templates set to 200dpi export resolution and 'Print as raster' by default
+
+###### Removed
+* SWPTI ptways_y10/plus and pylinks_y10/plus layers (these appeared to be duplicates of the SWPTI 'Bus routes' layer)
+
+###### Issues
+* slow initial project file loading time (approx. 2 minutes)
+
+###### Planned
+
