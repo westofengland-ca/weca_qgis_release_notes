@@ -5,7 +5,7 @@ Geographical data across the Combined Authority is viewable by staff using 'QGIS
 To explore our GIS data, follow these steps:
 1. Turn on your VPN
 2. Navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file)
-3. Download a copy of the `WECA_GIS_v08.qgz` file into your personal documents. Do not open it yet.
+3. Download a copy of the `WECA_GIS_v08.qgz` file into your personal documents. Do not open the file yet.
 4. Navigate to where your downloaded file is.
 5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v08_TheoF.qgz`).
 6. Open the file. Please allow **2 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
