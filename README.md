@@ -1,4 +1,4 @@
-# WECA QGIS file release notes
+# WECA QGIS file setup guide and release notes
 📍 🌐 🌍 📈
 
 Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. A QGIS file exists with various map layers pre-loaded.
