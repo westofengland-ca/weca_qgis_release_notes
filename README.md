@@ -83,3 +83,5 @@ Release notes are available below for the latest QGIS `.qgz` file. New releases 
 
 ###### Planned
 * add more print template options to the Layout Manager
+* add cycle hangars dataset
+* add WoE+ Zone shape to First Bus fare zone layer
