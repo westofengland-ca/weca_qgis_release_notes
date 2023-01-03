@@ -81,4 +81,4 @@ Release notes are available below for the latest QGIS `.qgz` file. New releases 
 * slow initial project file loading time (approx. 2 minutes)
 
 ###### Planned
-
+* add more print template options to the Layout Manager
