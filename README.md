@@ -29,7 +29,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 ###### New
 * first iteration of QGIS file with new layout
 * layers now hosted in Azure cloud, on PostgreSQL databases
-* multiple new layers added - see data catalogue for full list.
+* multiple new layers added - see data catalogue for full list
 
 
 ###### Changed
