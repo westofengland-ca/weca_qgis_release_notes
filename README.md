@@ -68,6 +68,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 ###### New
 * previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
 * update log table for SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
+* AECOM integrate micromobility service (IMS) areas
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
