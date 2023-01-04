@@ -75,6 +75,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * set scale dependent visibility on 'Land parcels' layer
 * all Layout templates set to 200dpi export resolution and 'Print as raster' by default
 * all Layout templates have 'Only show items inside linked map' unchecked by default (can reduce Layout opening time)
+* 'E-scooters' layer group renamed to 'E-scooters/bikes'
 
 ###### Removed
 * SWPTI ptways_y10/plus and pylinks_y10/plus layers (these appeared to be duplicates of the SWPTI 'Bus routes' layer)
