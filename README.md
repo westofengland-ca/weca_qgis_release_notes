@@ -31,14 +31,11 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * layers now hosted in Azure cloud, on PostgreSQL databases
 * multiple new layers added - see data catalogue for full list
 
-
 ###### Changed
 * layer rendering performance after switch to Azure cloud data sources
 
-
 ###### Removed
 * GIS file server datasets removed as data sources
-
 
 ###### Issues
 * slow initial project file loading time (1.5-2 minutes)
@@ -48,7 +45,6 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 ###### Summary
 * QGIS map file reading Shapefile data from Agilisys file server
 * each update added more map layers
-
 
 ###### Issues
 * slow read/write performance
@@ -69,6 +65,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
 * update log table for SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
 * integrated micromobility service (IMS) areas
+* BRERC habitat map
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
@@ -79,6 +76,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ###### Removed
 * SWPTI ptways_y10/plus and pylinks_y10/plus layers (these appeared to be duplicates of the SWPTI 'Bus routes' layer)
+* OS MasterMap greenspace (seems superfluous)
 
 ###### Issues
 * slow initial project file loading time (approx. 2 minutes)
