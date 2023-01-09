@@ -62,10 +62,10 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 ## **Version 09** (TBC Q2 2023)
 
 ###### New
-* previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
-* update log table for SWPTI/National PTI bus data added (change also appears in v08 as of 22/12)
+* previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12/22)
+* update log table for SWPTI/National PTI bus data added (change also appears in v08 as of 22/12/22)
 * integrated micromobility service (IMS) areas
-* BRERC habitat map
+* BRERC habitat map (change also appears in v08 as of 09/01/23)
 * CRSTS/TCF W&C scheme overhaul/update
 
 ###### Changed
