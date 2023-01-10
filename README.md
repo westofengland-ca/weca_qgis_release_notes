@@ -88,3 +88,5 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * add WoE+ Zone shape to First Bus fare zone layer
 * add Bee Bold award winners
 * add Job Centre locations
+* add DfT/OS strategic road network
+* add SW rail lines
