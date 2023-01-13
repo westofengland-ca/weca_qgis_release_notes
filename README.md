@@ -67,6 +67,8 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * integrated micromobility service (IMS) areas
 * BRERC habitat map (change also appears in v08 as of 09/01/23)
 * CRSTS/TCF W&C scheme overhaul/update
+* update log table for all regularly updated datasets
+* TCF funded cycle hangar locations (social housing sites)
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
@@ -84,7 +86,6 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ###### Planned
 * add more print template options to the Layout Manager
-* add cycle hangars dataset
 * add WoE+ Zone shape to First Bus fare zone layer
 * add Bee Bold award winners
 * add Job Centre locations
