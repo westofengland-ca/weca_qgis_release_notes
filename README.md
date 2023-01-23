@@ -67,6 +67,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * CRSTS/TCF W&C scheme overhaul/update
 * update log table for all regularly updated datasets
 * TCF funded cycle hangar locations (social housing sites)
+* FTZ DDRT zone
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
