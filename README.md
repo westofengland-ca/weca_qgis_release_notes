@@ -69,7 +69,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * TCF funded cycle hangar locations (social housing sites)
 * FTZ DDRT zone
 * cycling and walking routes (JLTP4 & LCWIP)
-* Car club bays (Travelwest)
+* car club bays (Travelwest)
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
