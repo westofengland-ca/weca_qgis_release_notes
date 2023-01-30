@@ -94,3 +94,4 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * add SW rail lines
 * add destination data (employment centres, schools etc.)
 * Google Street View bus stop layer
+* travel to work data
