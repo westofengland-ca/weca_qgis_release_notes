@@ -70,13 +70,15 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * FTZ DDRT zone
 * cycling and walking routes (JLTP4 & LCWIP)
 * car club bays (Travelwest)
+* combined active + inactive bus stops
+* LCWIP and JLTP4 cycling routes
 
 ###### Changed
-* 'SWPTI' layer group renamed to 'National PTI (SWPTI)'
+* 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
 * set scale dependent visibility on 'Land parcels' layer
 * all Layout templates set to 200dpi export resolution and 'Print as raster' by default
 * all Layout templates have 'Only show items inside linked map' unchecked by default (can reduce Layout opening time)
-* 'E-scooters' layer group renamed to 'E-scooters/bikes'
+* 'E-scooters' layer group renamed to 'Micromobility'
 
 ###### Removed
 * SWPTI ptways_y10/plus and pylinks_y10/plus layers (these appeared to be duplicates of the SWPTI 'Bus routes' layer)
