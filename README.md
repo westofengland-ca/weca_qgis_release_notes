@@ -97,3 +97,4 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * add destination data (employment centres, schools etc.)
 * Google Street View bus stop layer
 * travel to work data
+* carbon data, carbon.place
