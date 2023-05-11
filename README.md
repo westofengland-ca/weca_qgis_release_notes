@@ -98,3 +98,6 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Google Street View bus stop layer
 * travel to work data
 * carbon data, carbon.place
+* New National PTI monthly data contains WestLINK services (requires new symbology)
+* old tram ways
+* new DRT zones
