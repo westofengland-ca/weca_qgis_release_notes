@@ -72,6 +72,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * car club bays (Travelwest)
 * combined active + inactive bus stops
 * LCWIP and JLTP4 cycling routes
+* historical tramways
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
@@ -99,5 +100,4 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * travel to work data
 * carbon data, carbon.place
 * New National PTI monthly data contains WestLINK services (requires new symbology)
-* old tram ways
 * new DRT zones
