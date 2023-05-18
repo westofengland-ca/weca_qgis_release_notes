@@ -74,6 +74,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * LCWIP and JLTP4 cycling routes
 * historical tramways
 * cities and towns name labels
+* A2 landscape technical drawing template added to layouts
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
@@ -91,7 +92,6 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * slow initial project file loading time (approx. 2 minutes)
 
 ###### Planned
-* add more print template options to the Layout Manager
 * add WoE+ Zone shape to First Bus fare zone layer
 * add Bee Bold award winners
 * add Job Centre locations
