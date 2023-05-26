@@ -66,7 +66,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * BRERC habitat map (change also appears in v08 as of 09/01/23)
 * CRSTS/TCF W&C scheme overhaul/update
 * update log table for all regularly updated datasets
-* TCF funded cycle hangar locations (social housing sites)
+* cycle hangars
 * DRT WESTlink zones (March 2023)
 * cycling and walking routes (JLTP4 & LCWIP)
 * car club bays (Travelwest)
