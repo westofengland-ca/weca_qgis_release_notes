@@ -75,6 +75,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * historical tramways
 * cities and towns name labels
 * A2 landscape technical drawing template added to layouts
+* 'DRAFT' watermark added to each layout
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
