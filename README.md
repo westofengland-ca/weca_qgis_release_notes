@@ -76,6 +76,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * cities and towns name labels
 * A2 landscape technical drawing template added to layouts
 * 'DRAFT' watermark added to each layout
+* add WoE+ Zone shape to First Bus fare zone layer
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
@@ -93,7 +94,6 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * slow initial project file loading time (approx. 2 minutes)
 
 ###### Planned
-* add WoE+ Zone shape to First Bus fare zone layer
 * add Bee Bold award winners
 * add Job Centre locations
 * add DfT/OS strategic road network
