@@ -78,6 +78,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * 'DRAFT' watermark added to each layout
 * WoE+ Zone shape added to First Bus fare zone layer
 * DfT/OS strategic road network
+* OS building height data
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
