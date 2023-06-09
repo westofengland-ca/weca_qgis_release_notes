@@ -57,7 +57,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ## **QGIS file (.qgz) release future schedule:**
 
-## **Version 09** (TBC Q2 2023)
+## **Version 09** (TBC June 2023)
 
 ###### New
 * previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12/22)
@@ -79,6 +79,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * WoE+ Zone shape added to First Bus fare zone layer
 * DfT/OS strategic road network
 * OS building height data
+* BCC owned land
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
