@@ -80,11 +80,13 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * DfT/OS strategic road network
 * OS building height data
 * BCC owned land
+* Job Centre locations
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
 * 'Previous month's release' changed to 'Previous release' for SWPTI data (due to potential of skipped months)
 * National PTI monthly data update now working again, after Feb-May issues with data supply
+* National PTI monthly data now contains WestLINK services (with new symbology)
 * set scale dependent visibility on 'Land parcels' layer
 * all A3 & A4 Layout templates set to 200dpi export resolution and 'Print as raster' by default
 * all Layout templates have 'Only show items inside linked map' unchecked by default (can reduce Layout opening time)
@@ -95,15 +97,13 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * OS MasterMap greenspace (seems superfluous)
 
 ###### Issues
-* slow initial project file loading time (approx. 2 minutes)
+* slow initial project file loading time (approx. 2 minutes). This issue might be fixed in a QGIS software update later in June. Testing outcomes to be shared on GIS Teams group chat nearer the time.
 
 ###### Planned
 * add Bee Bold award winners
-* add Job Centre locations
 * add SW rail lines
 * add destination data (employment centres, schools etc.)
 * Google Street View bus stop layer
 * travel to work data
 * carbon data, carbon.place
-* New National PTI monthly data contains WestLINK services (requires new symbology)
-* flood projection polygons
+* flood projection polygons, if not RoFRS or RoFSW existing datasets
