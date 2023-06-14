@@ -81,6 +81,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * OS building height data
 * BCC owned land
 * Job Centre locations
+* Bee Bold award winners and entrants (2022 & 2023 layers)
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
@@ -100,7 +101,6 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * slow initial project file loading time (approx. 2 minutes). This issue might be fixed in a QGIS software update later in June. Testing outcomes to be shared on GIS Teams group chat nearer the time.
 
 ###### Planned
-* add Bee Bold award winners
 * add SW rail lines
 * add destination data (employment centres, schools etc.)
 * Google Street View bus stop layer
