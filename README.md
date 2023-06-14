@@ -98,7 +98,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * OS MasterMap greenspace (seems superfluous)
 
 ###### Issues
-* slow initial project file loading time (approx. 2 minutes). This issue might be fixed in a QGIS software update later in June. Testing outcomes to be shared on GIS Teams group chat nearer the time.
+* slow initial project file loading time (approx. 2 minutes). This issue might be fixed in a QGIS software update (v3.32.0) later in June. Testing outcomes to be shared on GIS Teams group chat nearer the time. If successful, new QGIS software will be auto-installed on user laptops.
 
 ###### Planned
 * add SW rail lines
