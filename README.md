@@ -81,7 +81,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * OS building height data
 * BCC owned land
 * Job Centre locations
-* Bee Bold award winners and entrants (2022 & 2023 layers)
+* Bee Bold award winners and shortlisters (2022 & 2023 layers)
 
 ###### Changed
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
