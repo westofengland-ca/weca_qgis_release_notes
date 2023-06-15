@@ -5,61 +5,25 @@ Geographical data across the Combined Authority is viewable by staff using 'QGIS
 To explore our GIS data, follow these steps:
 1. Turn on your VPN
 2. Navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file) (open this link in a new tab)
-3. Download a copy of the `WECA_GIS_v08.qgz` file into your personal documents. Do not open the file yet.
+3. Download a copy of the `WECA_GIS_v09.qgz` file into your personal documents. Do not open the file yet.
 4. Navigate to where your downloaded file is.
-5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v08_TheoF.qgz`).
+5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v09_TheoF.qgz`).
 6. Open the file. Please allow **2 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
 
-Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected every couple of months. Check the folder linked above for updated versions, then repeat the steps above if `v09` is found.
+Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected every couple of months. Check the folder linked above for updated versions, then repeat the steps above if `v10` is found.
 
 ---
 
 📚🎥 Training docs and videos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Training).
 
-📔📑 The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true) (WIP).
+📔📑 The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true).
 
 ---
 
 ## **QGIS file (.qgz) release history:**
 
-## **Version 08** (November 2022)
+## **Version 09** (June 2023)
 
-###### New
-* first iteration of QGIS file with new layout
-* layers now hosted in Azure cloud, on PostgreSQL databases
-* multiple new layers added - see data catalogue for full list
-
-###### Changed
-* layer rendering performance after switch to Azure cloud data sources
-
-###### Removed
-* GIS file server datasets removed as data sources
-
-###### Issues
-* slow initial project file loading time (1.5-2 minutes)
-* slow map layer load on first layer chosen
-
-## **Versions 01-07** (September 2021-October 2022)
-###### Summary
-* QGIS map file reading Shapefile data from Agilisys file server
-* each update added more map layers
-
-###### Issues
-* slow read/write performance
-* slow map rendering performance
-* file based data - non-relational & inefficient
-* limited bandwidth and scalability
-* externally managed
-
----
----
----
-
-## **QGIS file (.qgz) release future schedule:**
-
-## **Version 09** (TBC June 2023)
-
-###### New
 * previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12/22)
 * update log table for SWPTI/National PTI bus data added (change also appears in v08 as of 22/12/22)
 * integrated micromobility service (IMS) areas
@@ -99,6 +63,49 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ###### Issues
 * slow initial project file loading time (approx. 2 minutes). This issue might be fixed in a QGIS software update (v3.32.0) later in June. Testing outcomes to be shared on GIS Teams group chat nearer the time. If successful, new QGIS software will be auto-installed on user laptops.
+
+## **Version 08** (November 2022)
+
+###### New
+* first iteration of QGIS file with new layout
+* layers now hosted in Azure cloud, on PostgreSQL databases
+* multiple new layers added - see data catalogue for full list
+
+###### Changed
+* layer rendering performance after switch to Azure cloud data sources
+
+###### Removed
+* GIS file server datasets removed as data sources
+
+###### Issues
+* slow initial project file loading time (1.5-2 minutes)
+* slow map layer load on first layer chosen
+
+## **Versions 01-07** (September 2021-October 2022)
+###### Summary
+* QGIS map file reading Shapefile data from Agilisys file server
+* each update added more map layers
+
+###### Issues
+* slow read/write performance
+* slow map rendering performance
+* file based data - non-relational & inefficient
+* limited bandwidth and scalability
+* externally managed
+
+---
+---
+---
+
+## **QGIS file (.qgz) release future schedule:**
+
+## **Version 10** (TBC Q3 2023)
+
+###### New
+
+###### Changed
+
+###### Removed
 
 ###### Planned
 * add SW rail lines
