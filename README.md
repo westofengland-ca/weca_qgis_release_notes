@@ -2,7 +2,7 @@
 📍 🌐 🌍 📈
 
 Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. A QGIS file exists with various map layers pre-loaded.
-To explore our GIS data, follow these steps:
+To explore our GIS data, follow these steps carefully:
 1. Turn on your VPN
 2. Navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file) (open this link in a new tab)
 3. Download a copy of the `WECA_GIS_v09.qgz` file into your personal documents. Do not open the file yet.
@@ -16,7 +16,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 📚🎥 Training docs and videos can be found [here](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/Training).
 
-📔📑 The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true).
+📔📑 The GIS data catalogue can be found [here](https://westofenglandca.sharepoint.com/:x:/r/sites/GIS/_layouts/15/Doc.aspx?sourcedoc=%7BCF113E21-93A4-42AC-AEFF-26530EF1A1D6%7D&file=WECA_GIS_data_catalogue.xlsx&action=default&mobileredirect=true). (WIP)
 
 ---
 
