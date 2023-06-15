@@ -62,7 +62,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * OS MasterMap greenspace (seems superfluous)
 
 ###### Issues
-* slow initial project file loading time (approx. 2 minutes). This issue might be fixed in a QGIS software update (v3.32.0) later in June. Testing outcomes to be shared on GIS Teams group chat nearer the time. If successful, new QGIS software will be auto-installed on user laptops.
+* slow initial project file loading time (approx. 2-3 minutes). There is an official scheduled [fix](https://github.com/qgis/QGIS/pull/53112) for this issue in QGIS software update (v3.32.0), available on 26th June. Testing outcomes to be shared on GIS Teams group chat nearer the time. If successful, new QGIS software will be auto-installed on user laptops, replacing current QGIS software v3.22.8.
 
 ## **Version 08** (November 2022)
 
