@@ -8,7 +8,7 @@ To explore our GIS data, follow these steps carefully:
 3. Download a copy of the `WECA_GIS_v09.qgz` file into your personal documents. Do not open the file yet.
 4. Navigate to where your downloaded file is.
 5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v09_TheoF.qgz`).
-6. Open the file. Please allow **2 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
+6. Open the file. Please allow **2-3 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
 
 Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected every couple of months. Check the folder linked above for updated versions, then repeat the steps above if `v10` is found.
 
