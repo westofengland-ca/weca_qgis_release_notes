@@ -24,6 +24,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ## **Version 09** (June 2023)
 
+###### New
 * previous month's release of SWPTI/National PTI bus data added (change also appears in v08 as of 22/12/22)
 * update log table for SWPTI/National PTI bus data added (change also appears in v08 as of 22/12/22)
 * integrated micromobility service (IMS) areas
