@@ -52,7 +52,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * 'SWPTI' layer group renamed to 'National PTI (SWPTI/Traveline)'
 * 'Previous month's release' changed to 'Previous release' for SWPTI data (due to potential of skipped months)
 * National PTI monthly data update now working again, after Feb-May issues with data supply
-* National PTI monthly data now contains WestLINK services (with new symbology)
+* National PTI monthly data now contains WESTlink services (with new symbology)
 * set scale dependent visibility on 'Land parcels' layer
 * all A3 & A4 Layout templates set to 200dpi export resolution and 'Print as raster' by default
 * all Layout templates have 'Only show items inside linked map' unchecked by default (can reduce Layout opening time)
