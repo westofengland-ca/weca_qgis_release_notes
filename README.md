@@ -115,3 +115,4 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * travel to work data
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
 * flood projection polygons, if not RoFRS or RoFSW existing datasets
+* new Think Broadband dataset (July 2023 data cut)
