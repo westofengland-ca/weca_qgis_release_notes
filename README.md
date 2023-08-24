@@ -106,13 +106,13 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * MetroBus stops and routes
 * Think Broadband dataset (July 2023 update)
 * Clean Air Zone (CAZ) for Bath and Bristol
+* BCC Adopted Highways
 
 ###### Changed
 
 ###### Removed
 
 ###### Planned
-* BCC Adopted Highways
 * add SW rail lines
 * add destination data (employment centres, schools etc.)
 * Google Street View bus stop layer
