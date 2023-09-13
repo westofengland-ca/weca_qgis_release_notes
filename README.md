@@ -107,6 +107,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Think Broadband dataset (July 2023 update)
 * Clean Air Zone (CAZ) for Bath and Bristol
 * BCC Adopted Highways
+* National Highways boundary redline
 
 ###### Changed
 
