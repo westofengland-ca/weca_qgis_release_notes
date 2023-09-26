@@ -100,7 +100,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ## **QGIS file (.qgz) release future schedule:**
 
-## **Version 10** (TBC Q3 2023)
+## **Version 10** (TBC Q4 2023)
 
 ###### New
 * MetroBus stops and routes
