@@ -108,10 +108,13 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Clean Air Zone (CAZ) for Bath and Bristol
 * BCC Adopted Highways
 * National Highways boundary redline
+* EA DTM 1m and 2m terrain model
+* EA DSM 1m and 2m surface model
 
 ###### Changed
 
 ###### Removed
+* dead link WMS layers for EA DTM 1m & 2m terrain models
 
 ###### Planned
 * add SW rail lines
