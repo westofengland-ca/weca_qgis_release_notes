@@ -112,9 +112,11 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * EA DSM 1m and 2m surface model
 
 ###### Changed
+* Built Up Areas (ONS) updated from 2011 to 2022 release
 
 ###### Removed
 * dead link WMS layers for EA DTM 1m & 2m terrain models
+* Built Up Areas (ONS) 2011
 
 ###### Planned
 * add SW rail lines
