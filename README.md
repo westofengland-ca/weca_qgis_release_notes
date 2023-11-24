@@ -110,6 +110,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * National Highways boundary redline
 * EA DTM 1m and 2m terrain model
 * EA DSM 1m and 2m surface model
+* BCC and SGLOS gritting routes
 
 ###### Changed
 * Built Up Areas (ONS) updated from 2011 to 2022 release
