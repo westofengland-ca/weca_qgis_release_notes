@@ -110,10 +110,13 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * National Highways boundary redline
 * EA DTM 1m and 2m terrain model
 * EA DSM 1m and 2m surface model
-* BCC and SGLOS gritting routes
+* BCC and SGLOS gritting routes (BANES already exists)
+* Green Belt
 
 ###### Changed
 * Built Up Areas (ONS) updated from 2011 to 2022 release
+* Renamed 'MHCLG' references to 'DLUHC/MHCLG'
+* Move housing sites layer group into a new sub-group 'Housing sites archive (SDS-era)'
 
 ###### Removed
 * dead link WMS layers for EA DTM 1m & 2m terrain models
@@ -126,3 +129,4 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * travel to work data
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
 * flood projection polygons, if not RoFRS or RoFSW existing datasets
+* New housing development sites from UAs (2023/24 update)
