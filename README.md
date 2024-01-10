@@ -108,8 +108,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Clean Air Zone (CAZ) for Bath and Bristol
 * BCC Adopted Highways
 * National Highways boundary redline
-* EA DTM 1m and 2m terrain model
-* EA DSM 1m and 2m surface model
+* EA DTM 1m terrain model
 * BCC and SGLOS gritting routes (BANES already exists)
 * Green Belt
 
@@ -120,6 +119,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ###### Removed
 * dead link WMS layers for EA DTM 1m & 2m terrain models
+* DTM 2m, DSM 1m, DSM 2m all removed due to inconsistent DEFRA server connectivity
 * Built Up Areas (ONS) 2011
 
 ###### Planned
@@ -130,3 +130,4 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
 * flood projection polygons, if not RoFRS or RoFSW existing datasets
 * New housing development sites from UAs (2023/24 update)
+* adopted highways
