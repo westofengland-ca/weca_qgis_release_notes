@@ -10,7 +10,7 @@ To explore our GIS data, follow these steps carefully:
 5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v09_TheoF.qgz`).
 6. Open the file. Please allow **2-3 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
 
-Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected every couple of months. Check the folder linked above for updated versions, then repeat the steps above if `v10` is found.
+Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected 5-6 months. Check the folder linked above for updated versions, then repeat the steps above if `v10` is found.
 
 ---
 
@@ -100,27 +100,31 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ## **QGIS file (.qgz) release future schedule:**
 
-## **Version 10** (TBC Q4 2023)
+## **Version 10** (TBC Q1 2024)
 
 ###### New
 * MetroBus stops and routes
-* Think Broadband dataset (July 2023 update)
+* Think Broadband dataset (July 2023 & October 2023 updates)
 * Clean Air Zone (CAZ) for Bath and Bristol
 * BCC Adopted Highways
 * National Highways boundary redline
 * EA DTM 1m terrain model
 * BCC and SGLOS gritting routes (BANES already exists)
 * Green Belt
+* New housing & employment development sites from UAs (2023/24 Local Plan update)
+* adopted highways (BANES, BCC)
+* Connected Nations Summer 2021 update (data up to May '21) -now Connected Nations layers exists for 2021, 2022 and 2023 with consistent 12 month gaps between each one for easier comparison
 
 ###### Changed
 * Built Up Areas (ONS) updated from 2011 to 2022 release
 * Renamed 'MHCLG' references to 'DLUHC/MHCLG'
-* Move housing sites layer group into a new sub-group 'Housing sites archive (SDS-era)'
+* Move housing sites layer group into a new sub-group 'Local Plan/SDS 2019-2021'
 
 ###### Removed
 * dead link WMS layers for EA DTM 1m & 2m terrain models
 * DTM 2m, DSM 1m, DSM 2m all removed due to inconsistent DEFRA server connectivity
 * Built Up Areas (ONS) 2011
+* Connected Nations Spring 2022 update (data up to Jan '22) removed so only Summer updates are shown
 
 ###### Planned
 * add SW rail lines
@@ -129,5 +133,6 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * travel to work data
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
 * flood projection polygons, if not RoFRS or RoFSW existing datasets
-* New housing development sites from UAs (2023/24 update)
-* adopted highways
+* adopted highways (SGLOS, NSC)
+
+## **Version 11** (TBC Q3 2024)
