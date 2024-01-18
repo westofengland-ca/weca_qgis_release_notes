@@ -115,6 +115,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * adopted highways (BANES, BCC)
 * Connected Nations Summer 2021 update (data up to May '21) -now Connected Nations layers exists for 2021, 2022 and 2023 with consistent 12 month gaps between each one for easier comparison
 * NaPTAN access nodes (bus stops) from DfT
+* Coal data (BGS & Coal Authority)
 
 ###### Changed
 * Built Up Areas (ONS) updated from 2011 to 2022 release
