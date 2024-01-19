@@ -121,6 +121,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Built Up Areas (ONS) updated from 2011 to 2022 release
 * Renamed 'MHCLG' references to 'DLUHC/MHCLG'
 * Move housing sites layer group into a new sub-group 'Local Plan/SDS 2019-2021'
+* Changed Sustainable Corridors symbology to use 'funding' source instead of 'timescale' for colours
 
 ###### Removed
 * dead link WMS layers for EA DTM 1m & 2m terrain models
