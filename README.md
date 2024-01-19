@@ -106,16 +106,16 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * MetroBus stops and routes
 * Think Broadband dataset (July 2023 & October 2023 updates)
 * Clean Air Zone (CAZ) for Bath and Bristol
-* BCC Adopted Highways
 * National Highways boundary redline
 * EA DTM 1m terrain model
 * BCC and SGLOS gritting routes (BANES already exists)
 * Green Belt
 * New housing & employment development sites from UAs (2023/24 Local Plan update)
-* adopted highways (BANES, BCC)
+* Adopted highways (BANES, BCC)
 * Connected Nations Summer 2021 update (data up to May '21) -now Connected Nations layers exists for 2021, 2022 and 2023 with consistent 12 month gaps between each one for easier comparison
 * NaPTAN access nodes (bus stops) from DfT
 * Coal data (BGS & Coal Authority)
+* Substation location with available network capacity for EV charging (National Grid open data)
 
 ###### Changed
 * Built Up Areas (ONS) updated from 2011 to 2022 release
