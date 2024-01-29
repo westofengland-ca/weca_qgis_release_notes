@@ -5,12 +5,12 @@ Geographical data across the Combined Authority is viewable by staff using 'QGIS
 To explore our GIS data, follow these steps carefully:
 1. Turn on your VPN
 2. Navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file) (open this link in a new tab)
-3. Download a copy of the `WECA_GIS_v09.qgz` file into your personal documents. Do not open the file yet.
+3. Download a copy of the `WECA_GIS_v10.qgz` file into your personal documents. Do not open the file yet.
 4. Navigate to where your downloaded file is.
-5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v09_TheoF.qgz`).
+5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v10_TheoF.qgz`).
 6. Open the file. Please allow **2-3 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
 
-Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected 5-6 months. Check the folder linked above for updated versions, then repeat the steps above if `v10` is found.
+Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected 5-6 months. Check the folder linked above for updated versions, then repeat the steps above if `v11` is found.
 
 ---
 
@@ -21,6 +21,39 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 ---
 
 ## **QGIS file (.qgz) release history:**
+
+## **Version 10** (January 2024)
+
+###### New
+* MetroBus stops and routes
+* Think Broadband dataset (July 2023 & October 2023 updates)
+* Clean Air Zone (CAZ) for Bath and Bristol
+* National Highways boundary redline
+* EA DTM 1m terrain model
+* BCC and SGLOS gritting routes (BANES already exists)
+* Green Belt
+* New housing & employment development sites from UAs (2023/24 Local Plan update)
+* Adopted highways (BANES, BCC)
+* Connected Nations Summer 2021 update (data up to May '21) -now Connected Nations layers exists for 2021, 2022 and 2023 with consistent 12 month gaps between each one for easier comparison
+* NaPTAN access nodes (bus stops) from DfT
+* Coal data (BGS & Coal Authority)
+* Substation location with available network capacity for EV charging (National Grid open data)
+* Car parks
+* Resident parking zones (BCC, BANES)
+* Domestic energy consumption, by LSOA (Department for Energy Security and Net Zero)
+* Domestic properties not connected to gas network, by LSOA (Department for Energy Security and Net Zero)
+
+###### Changed
+* Built Up Areas (ONS) updated from 2011 to 2022 release
+* Renamed 'MHCLG' references to 'DLUHC/MHCLG'
+* Move housing sites layer group into a new sub-group 'Local Plan/SDS 2019-2021'
+* Changed Sustainable Corridors symbology to use 'funding' source instead of 'timescale' for colours
+
+###### Removed
+* dead link WMS layers for EA DTM 1m & 2m terrain models
+* DTM 2m, DSM 1m, DSM 2m all removed due to inconsistent DEFRA server connectivity
+* Built Up Areas (ONS) 2011
+* Connected Nations Spring 2022 update (data up to Jan '22) removed so only Summer updates are shown
 
 ## **Version 09** (June 2023)
 
@@ -100,42 +133,13 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ## **QGIS file (.qgz) release future schedule:**
 
-## **Version 10** (TBC Q1 2024)
+## **Version 11** (TBC Q3 2024)
 
 ###### New
-* MetroBus stops and routes
-* Think Broadband dataset (July 2023 & October 2023 updates)
-* Clean Air Zone (CAZ) for Bath and Bristol
-* National Highways boundary redline
-* EA DTM 1m terrain model
-* BCC and SGLOS gritting routes (BANES already exists)
-* Green Belt
-* New housing & employment development sites from UAs (2023/24 Local Plan update)
-* Adopted highways (BANES, BCC)
-* Connected Nations Summer 2021 update (data up to May '21) -now Connected Nations layers exists for 2021, 2022 and 2023 with consistent 12 month gaps between each one for easier comparison
-* NaPTAN access nodes (bus stops) from DfT
-* Coal data (BGS & Coal Authority)
-* Substation location with available network capacity for EV charging (National Grid open data)
-* Car parks
-* Resident parking zones (BCC, BANES)
-* Domestic energy consumption, by LSOA (Department for Energy Security and Net Zero)
-* Domestic properties not connected to gas network, by LSOA (Department for Energy Security and Net Zero)
 
 ###### Changed
-* Built Up Areas (ONS) updated from 2011 to 2022 release
-* Renamed 'MHCLG' references to 'DLUHC/MHCLG'
-* Move housing sites layer group into a new sub-group 'Local Plan/SDS 2019-2021'
-* Changed Sustainable Corridors symbology to use 'funding' source instead of 'timescale' for colours
 
 ###### Removed
-* dead link WMS layers for EA DTM 1m & 2m terrain models
-* DTM 2m, DSM 1m, DSM 2m all removed due to inconsistent DEFRA server connectivity
-* Built Up Areas (ONS) 2011
-* Connected Nations Spring 2022 update (data up to Jan '22) removed so only Summer updates are shown
-
-
-
-## **Version 11** (TBC Q3 2024)
 
 ###### Planned
 * add SW rail lines
