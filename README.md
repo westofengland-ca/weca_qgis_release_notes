@@ -116,6 +116,8 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * NaPTAN access nodes (bus stops) from DfT
 * Coal data (BGS & Coal Authority)
 * Substation location with available network capacity for EV charging (National Grid open data)
+* Car parks
+* Resident parking zones (BCC, BANES)
 * Domestic energy consumption, by LSOA (Department for Energy Security and Net Zero)
 * Domestic properties not connected to gas network, by LSOA (Department for Energy Security and Net Zero)
 
