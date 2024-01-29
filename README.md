@@ -116,6 +116,8 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * NaPTAN access nodes (bus stops) from DfT
 * Coal data (BGS & Coal Authority)
 * Substation location with available network capacity for EV charging (National Grid open data)
+* Domestic energy consumption, by LSOA (Department for Energy Security and Net Zero)
+* Domestic properties not connected to gas network, by LSOA (Department for Energy Security and Net Zero)
 
 ###### Changed
 * Built Up Areas (ONS) updated from 2011 to 2022 release
@@ -129,6 +131,10 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Built Up Areas (ONS) 2011
 * Connected Nations Spring 2022 update (data up to Jan '22) removed so only Summer updates are shown
 
+
+
+## **Version 11** (TBC Q3 2024)
+
 ###### Planned
 * add SW rail lines
 * add destination data (employment centres, schools etc.)
@@ -137,5 +143,3 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
 * flood projection polygons, if not RoFRS or RoFSW existing datasets
 * adopted highways (SGLOS, NSC)
-
-## **Version 11** (TBC Q3 2024)
