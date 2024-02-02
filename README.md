@@ -136,6 +136,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 ## **Version 11** (TBC Q3 2024)
 
 ###### New
+* Conservation areas (Historic England)
 
 ###### Changed
 
