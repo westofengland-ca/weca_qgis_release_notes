@@ -1,7 +1,7 @@
 # WECA QGIS file setup guide and release notes
 📍 🌐 🌍 📈
 
-Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. A QGIS file exists with various map layers pre-loaded.
+Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. A ready-made QGIS file exists with various map layers pre-loaded.
 To explore our GIS data, follow these steps carefully:
 1. Turn on your VPN
 2. Navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file) (open this link in a new tab)
