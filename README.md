@@ -137,13 +137,17 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ###### New
 * Conservation areas (Historic England)
+* Tier operating areas
 
 ###### Changed
 
 ###### Removed
+* Voi operating areas
+* Voi mandatory parking bays
 
 ###### Planned
 * add SW rail lines
+* Tier active parking bays (snapshot)
 * add destination data (employment centres, schools etc.)
 * Google Street View bus stop layer
 * travel to work data
