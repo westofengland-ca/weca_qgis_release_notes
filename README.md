@@ -147,10 +147,15 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ###### Planned
 * add SW rail lines
-* Tier active parking bays (snapshot)
+* Tier active parking bays (snapshot - from AGOL)
 * add destination data (employment centres, schools etc.)
 * Google Street View bus stop layer
 * travel to work data
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
 * flood projection polygons, if not RoFRS or RoFSW existing datasets
 * adopted highways (SGLOS, NSC)
+* updated flood data
+* Bee Bold Awards 2024
+* SolarTogether installations
+* Coal Authority data
+* Street Manager / OneNetwork data?
