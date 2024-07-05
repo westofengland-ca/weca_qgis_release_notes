@@ -142,6 +142,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Bus services (weekly update)
 
 ###### Changed
+* replaced 'WECA' references with 'CA' or 'West of England Combined Authority'
 
 ###### Removed
 * Voi operating areas
