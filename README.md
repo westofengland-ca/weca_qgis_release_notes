@@ -163,3 +163,4 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * SolarTogether installations
 * Coal Authority data
 * Street Manager / OneNetwork data?
+* Substation capacity data (EW email July)
