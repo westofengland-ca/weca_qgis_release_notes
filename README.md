@@ -1,13 +1,13 @@
-# WECA QGIS file setup guide and release notes
+# MCA QGIS file setup guide and release notes
 📍 🌐 🌍 📈
 
 Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. A ready-made QGIS file exists with various map layers pre-loaded.
 To explore our GIS data, follow these steps carefully:
 1. Turn on your VPN
 2. Navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file) (open this link in a new tab)
-3. Download a copy of the `WECA_GIS_v10.qgz` file into your personal documents. Do not open the file yet.
+3. Download a copy of the `MCA_GIS_v10.qgz` file into your personal documents. Do not open the file yet.
 4. Navigate to where your downloaded file is.
-5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `WECA_GIS_v10_TheoF.qgz`).
+5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `MCA_GIS_v10_TheoF.qgz`).
 6. Open the file. Please allow **2-3 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
 
 Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected 5-6 months. Check the folder linked above for updated versions, then repeat the steps above if `v11` is found.
@@ -142,7 +142,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Bus services (weekly update)
 
 ###### Changed
-* replaced 'WECA' references with 'CA' or 'West of England Combined Authority'
+* replaced 'WECA' references with 'CA' or 'West of England Combined Authority' or 'MCA'
 
 ###### Removed
 * Voi operating areas
