@@ -137,9 +137,10 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ###### New
 * Conservation areas (Historic England)
-* Tier operating areas
+* Dott/Tier operating areas
 * Bus stops (weekly update)
 * Bus services (weekly update)
+* Rail Lines across the SW (OSM)
 
 ###### Changed
 * replaced 'WECA' references with 'CA' or 'West of England Combined Authority' or 'MCA'
@@ -150,8 +151,7 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Active & Inactive stops
 
 ###### Planned
-* add SW rail lines
-* Tier active parking bays (snapshot - from AGOL)
+* Tier active parking bays (snapshot - from AGOL) NOTE: last updated July 2023, not of use.
 * add destination data (employment centres, schools etc.)
 * Google Street View bus stop layer
 * travel to work data
