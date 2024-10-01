@@ -141,6 +141,11 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Bus stops (weekly update)
 * Bus services (weekly update)
 * Rail Lines across the SW (OSM)
+* a selection of new basemaps, including several Vector Tile (high-res) options, sorted into new sub-groups
+* destination data, used in Transport modelling (employment centres, schools etc.)
+* Coal Authority data
+* Bee Bold Awards 2024
+* MCA construction project locations (CRSTS etc.)
 
 ###### Changed
 * replaced 'WECA' references with 'CA' or 'West of England Combined Authority' or 'MCA'
@@ -152,15 +157,11 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ###### Planned
 * Tier active parking bays (snapshot - from AGOL) NOTE: last updated July 2023, not of use.
-* add destination data (employment centres, schools etc.)
-* Google Street View bus stop layer
+* Google Street View bus stop layer (needs an update, and moved to Prod)
 * travel to work data
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
 * flood projection polygons, if not RoFRS or RoFSW existing datasets
 * adopted highways (SGLOS, NSC)
-* updated flood data
-* Bee Bold Awards 2024
 * SolarTogether installations
-* Coal Authority data
 * Street Manager / OneNetwork data?
 * Substation capacity data (EW email July)
