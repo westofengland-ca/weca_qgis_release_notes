@@ -22,6 +22,29 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ## **QGIS file (.qgz) release history:**
 
+## **Version 11** (October 2024)
+
+###### New
+* Conservation areas (Historic England)
+* Dott/Tier operating areas
+* Bus stops (weekly update)
+* Bus services (weekly update)
+* Rail Lines across the SW (OSM)
+* a selection of new basemaps, including several Vector Tile (high-res) options, sorted into new sub-groups
+* destination data, used in Transport modelling (employment centres, schools etc.)
+* Coal Authority data
+* Bee Bold Awards 2024
+* MCA construction project locations (CRSTS etc.)
+* Zap-Map EV charge point updates
+
+###### Changed
+* replaced 'WECA' references with 'CA' or 'West of England Combined Authority' or 'MCA'
+
+###### Removed
+* Voi operating areas
+* Voi mandatory parking bays
+* Active & Inactive stops
+
 ## **Version 10** (January 2024)
 
 ###### New
@@ -133,29 +156,19 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ## **QGIS file (.qgz) release future schedule:**
 
-## **Version 11** (TBC Q3 2024)
+## **Version 12** (TBC Q1 2025)
 
 ###### New
-* Conservation areas (Historic England)
-* Dott/Tier operating areas
-* Bus stops (weekly update)
-* Bus services (weekly update)
-* Rail Lines across the SW (OSM)
-* a selection of new basemaps, including several Vector Tile (high-res) options, sorted into new sub-groups
-* destination data, used in Transport modelling (employment centres, schools etc.)
-* Coal Authority data
-* Bee Bold Awards 2024
-* MCA construction project locations (CRSTS etc.)
+* ...
 
 ###### Changed
-* replaced 'WECA' references with 'CA' or 'West of England Combined Authority' or 'MCA'
+* ...
 
 ###### Removed
-* Voi operating areas
-* Voi mandatory parking bays
-* Active & Inactive stops
+* ...
 
 ###### Planned
+* project file saved in QGIS version 3.34.10
 * Tier active parking bays (snapshot - from AGOL) NOTE: last updated July 2023, not of use.
 * Google Street View bus stop layer (needs an update, and moved to Prod)
 * travel to work data
