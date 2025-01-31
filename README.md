@@ -179,3 +179,9 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * SolarTogether installations
 * Street Manager / OneNetwork data?
 * Substation capacity data (EW email July)
+* CDRC Retail Centre Boundaries
+* BCC Local Plan Polygons
+* Air Quality Data
+* Mine Heat Opportunity Mapping from Mining Remediation Authority
+* National Flood Risk Assessment 2 Environment Agency (includes updates to rofrs, rofsw, fmfp, ncerm)
+* 
