@@ -3,10 +3,10 @@
 
 Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. If you can't find QGIS in your Windows Start menu, then please raise a [General Service Request](https://live.hornbill.com/nsc/catalog/new-service-request/com.hornbill.servicemanager/23/175/) in Hornbill asking to be `added to MCA Entra security group 'sccm-qgis-allow' for auto-deployment of QGIS software`. This request is usually completely within 1 working day, but the software will only auto-install when you're on the VPN.
 
-A ready-made QGIS file exists with various map layers pre-loaded.
+With QGIS installed, a ready-made QGIS file exists with various map layers pre-loaded.
 To explore our GIS data, follow these steps carefully:
 1. Turn on your VPN
-2. Navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file) (open this link in a new tab)
+2. In a new tab, navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file)
 3. Download a copy of the `MCA_GIS_v11.qgz` file into your personal documents. Do not open the file yet.
 4. Navigate to where your downloaded file is.
 5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `MCA_GIS_v11_TheoF.qgz`).
