@@ -183,6 +183,8 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Substation capacity data (EW email July)
 * CDRC Retail Centre Boundaries
 * BCC Local Plan Polygons
+* Bath and North East Somerset Call for Sites 2025
+* Bath and North East Somerset published HELAA Sites
 * Air Quality Data
 * Mine Heat Opportunity Mapping from Mining Remediation Authority
 * National Flood Risk Assessment 2 Environment Agency (includes updates to rofrs, rofsw, fmfp, ncerm)
