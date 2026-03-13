@@ -171,8 +171,9 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * ...
 
 ###### Planned
-* project file saved in QGIS version 3.34.10
-* Tier active parking bays (snapshot - from AGOL) NOTE: last updated July 2023, not of use.
+* project file saved in QGIS version 3.40.15
+* Dott parking bays GeoJson parking points
+* Dott zones GeoJson polygons
 * Google Street View bus stop layer (needs an update, and moved to Prod)
 * travel to work data
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
