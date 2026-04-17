@@ -1,18 +1,18 @@
 # MCA QGIS file setup guide and release notes
 📍 🌐 🌍 📈
 
-Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. If you can't find QGIS in your Windows Start menu, then please raise a [General Service Request](https://live.hornbill.com/nsc/catalog/new-service-request/com.hornbill.servicemanager/23/175/) in Hornbill asking `Please add me to the MCA Entra security group 'sccm-qgis-allow' for auto-deployment of QGIS software`. This request is usually completely within 1 working day, but the software will only auto-install when you're on the VPN.
+Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. If you can't find QGIS in your Windows Start menu, then please connect to the VPN, open the 'Company Portal' app on your laptop, and search for QGIS 3.40.15 to install.
 
 With QGIS installed, a ready-made QGIS file exists with various map layers pre-loaded.
 To explore our GIS data, follow these steps carefully:
 1. Turn on your VPN
 2. In a new tab, navigate to [this folder](https://westofenglandca.sharepoint.com/:f:/r/sites/GIS/Shared%20Documents/General/QGIS_map_file)
-3. Download a copy of the `MCA_GIS_v11.qgz` file into your personal documents. Do not open the file yet.
+3. Download a copy of the `MCA_GIS_v12.qgz` file into your personal documents. Do not open the file yet.
 4. Navigate to where your downloaded file is.
-5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `MCA_GIS_v11_TheoF.qgz`).
+5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `MCA_GIS_v12_TheoF.qgz`).
 6. Open the file. Please allow **2-3 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
 
-Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected 5-6 months. Check the folder linked above for updated versions, then repeat the steps above if `v12` is found.
+Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected 5-6 months. Check the folder linked above for updated versions, then repeat the steps above if a newer version is found.
 
 ---
 
@@ -23,6 +23,23 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 ---
 
 ## **QGIS file (.qgz) release history:**
+
+## **Version 12** (April 2026)
+
+###### New
+* project file saved in QGIS version 3.40.15
+* Dott parking bays
+* Dott geofence zones (slow zones, no ride zones)
+* CDRC/GeoDS Retail Centre Boundaries
+* Flood Map for Planning flood zones 2 & 3 + climate modelling variations
+
+###### Changed
+* updated Risk of Flood from Rivers & Seas / Surface Water
+* updated National Forest Inventory
+* old MCA logo replaced with new b/w MCA logo across all 5 layout templates
+
+###### Removed
+* ...
 
 ## **Version 11** (October 2024)
 
@@ -159,21 +176,18 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 
 ## **QGIS file (.qgz) release future schedule:**
 
-## **Version 12** (TBC Q1 2025)
+## **Version 13** (TBC Q4 2026)
 
 ###### New
 * ...
 
 ###### Changed
-* old MCA logo replaced with new b/w MCA logo across all 5 layout templates
+* ...
 
 ###### Removed
 * ...
 
 ###### Planned
-* project file saved in QGIS version 3.40.15
-* Dott parking bays GeoJson parking points
-* Dott zones GeoJson polygons
 * Google Street View bus stop layer (needs an update, and moved to Prod)
 * travel to work data
 * carbon data, carbon.place (data added 14/06/23 as creds.pbcc_lsoa_lep, but due to number of columns in dataset, risk of project slowdown until QGIS 3.32.0 software release)
@@ -182,7 +196,6 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * SolarTogether installations
 * Street Manager / OneNetwork data?
 * Substation capacity data (EW email July)
-* CDRC Retail Centre Boundaries
 * BCC Local Plan Polygons
 * Bath and North East Somerset Call for Sites 2025
 * Bath and North East Somerset published HELAA Sites
