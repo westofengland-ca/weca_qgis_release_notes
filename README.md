@@ -31,14 +31,19 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Dott parking bays
 * Dott geofence zones (slow zones, no ride zones)
 * CDRC/GeoDS Retail Centre Boundaries
-* Flood Map for Planning flood zones 2 & 3 + climate modelling variations
+* Flood Map for Planning flood zones - climate modelling variations
 * Indicies of Multiple Deprivation (IMD) 2025 update, mapped to LSOAs
+* OS National Geographic Database (NGD) cycle lanes
 
 ###### Changed
 * updated Risk of Flood from Rivers & Seas / Surface Water
 * updated National Forest Inventory to 2024 release
 * old MCA logo replaced with new b/w MCA logo across all 5 layout templates
 * updated WestLink zones, April 2026
+* car availability 2021 update
+* Flood Map for Planning flood zones 2 & 3 update
+* postcode point & polygon update
+* AddressBase premium udpdate
 
 ###### Removed
 * Tier operating area
