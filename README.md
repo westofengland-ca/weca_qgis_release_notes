@@ -34,6 +34,8 @@ Release notes are available below for the latest QGIS `.qgz` file. A new release
 * Flood Map for Planning flood zones - climate modelling variations
 * Indicies of Multiple Deprivation (IMD) 2025 update, mapped to LSOAs
 * OS National Geographic Database (NGD) cycle lanes
+* 2022 population weighted Output Area centroids
+* 2024 population weighted Output Area centroids
 
 ###### Changed
 * updated Risk of Flood from Rivers & Seas / Surface Water
