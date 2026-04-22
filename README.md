@@ -1,7 +1,7 @@
 # MCA QGIS file setup guide and release notes
 📍 🌐 🌍 📈
 
-Geographical data across the Combined Authority is viewable by staff using 'QGIS' software. If you can't find QGIS in your Windows Start menu, then please connect to the VPN, open the 'Company Portal' app on your laptop, and search for QGIS 3.40.15 to install.
+Core geographical data across the Combined Authority is viewable by staff using 'QGIS' software. If you can't find QGIS in your Windows Start menu, then please connect to the VPN, open the 'Company Portal' app on your laptop, and search for QGIS 3.40.15 to install. Most of the available data is stored in our corporate GIS database, accessible internally by staff when connected to the VPN. This database directly hooks into QGIS and SQL query tools for internal analysis, complementing web-based solutions like the TDH and Open Data Portal.
 
 With QGIS installed, a ready-made QGIS file exists with various map layers pre-loaded.
 To explore our GIS data, follow these steps carefully:
@@ -10,7 +10,7 @@ To explore our GIS data, follow these steps carefully:
 3. Download a copy of the `MCA_GIS_v12.qgz` file into your personal documents. Do not open the file yet.
 4. Navigate to where your downloaded file is.
 5. Rename the file. Please rename the copied file by adding your name and surname initial to the end (eg. `MCA_GIS_v12_TheoF.qgz`).
-6. Open the file. Please allow **2-3 minutes** or so for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
+6. Open the file. Please allow **1 minute** for QGIS to fully load the layers (there are lots of map layers!). Try not to interact with QGIS during loading.
 
 Release notes are available below for the latest QGIS `.qgz` file. A new release of this file is expected 5-6 months. Check the folder linked above for updated versions, then repeat the steps above if a newer version is found.
 
